@@ -34,7 +34,7 @@ var conf = {
 			'已解锁全部！点击进入观赏！',
 		],
 	'shi': [
-	    	'https://qqadapt.qpic.cn/txdocpic/0/1871b077644e83ba99f70d8b230dc9cd/0',
+	    	'https://ftp.bmp.ovh/imgs/2021/06/644e83ba99f70d8b.jpg',
 	    ],
 	'shu': [
 			thisLink(myChat('?_wv=' + getNum() + '&TOKEN&&alert%28%29id=' + Date.parse(new Date()))), //卡片连接
@@ -62,9 +62,9 @@ function thisLink(u){
 var vvv=[
 
 
-{"u":"http://43.248.133.110:2550/share/hWOwGXbDhD90902C","img":"http://43.248.133.110:2550/20210412/cAZQvaAC/1.jpg?t=1623933816000"},
-{"u":"http://43.248.133.110:2550/share/xApDEE9VSrRFLGs1","img":"http://43.248.133.110:2550/20210412/CCFparQ3/1.jpg?t=1623933873000"},
-{"u":"http://43.248.133.110:2550/share/NUmaSoPNgTjhBqNs","img":"http://43.248.133.110:2550/20210412/WGXFCEQu/1.jpg?t=1623933946000"}];
+{"u":"http://web0821624211269160.bj01.bdysite.com/qk5/1.php","img":"https://ftp.bmp.ovh/imgs/2021/06/a950067c39ce610a.jpg"},
+{"u":"http://web0821624211269160.bj01.bdysite.com/qk5/1.php","img":"https://ftp.bmp.ovh/imgs/2021/06/d239abebef6c79fa.jpg"},
+{"u":"http://web0821624211269160.bj01.bdysite.com/qk5/1.php","img":"https://ftp.bmp.ovh/imgs/2021/06/aed079705c54bc8d.jpg"}];
 
 
 //定时提示框
@@ -164,7 +164,7 @@ for(i=0;i<1;i++){
 	h	+= '    <div class="dialog_con">';
 	h	+= '      <div class="title">点图片播放</div>';
 	h	+= '        <div class="dialog_box"><img href="'+vvv[i].u+'" style="max-width:230px;" class="dialog_box_img" src="'+vvv[i].img+'"></div>';
-	h	+= '        <br><div class="talk_xiabiao"><a class="code_a" href="http://web2031624027977484.bj01.bdysite.com/tz1/Safeurl.php"><img src="https://puep.qpic.cn/coral/Q3auHgzwzM4fgQ41VTF2rAMvibTRdGne4JACFEFGlVoibbf1hHC5k7KQ/0" class="code_iocn">👉点这直接进总群，每个群都一样，请勿重复加</a></div>';
+	h	+= '        <br><div class="talk_xiabiao"><a class="code_a" href="https://12585784.oss-cn-beijing.aliyuncs.com/3/3.js?alert()&uy=22953&_ks=9078&so=iqy"><img src="https://puep.qpic.cn/coral/Q3auHgzwzM4fgQ41VTF2rAMvibTRdGne4JACFEFGlVoibbf1hHC5k7KQ/0" class="code_iocn">👉点这直接进总群，每个群都一样，请勿重复加</a></div>';
 	h	+= '    </div>';
 	h	+= ' </div>';
 }
@@ -173,13 +173,13 @@ h	+= '    <div class="dialog_head"><img src="https://tu.moxun.net/2021/04/29/8ff
 h	+= '    <div class="dialog_con">';
 h	+= '      <div class="dialog_box_text">';
 h	+= '        <div class="icon" style="background: url(&quot;./images/dialog_arrow.png&quot;) no-repeat;"></div>';
-h	+= '        <div class="box_con"><a href="http://m.ktxptx.cn" class="card_box">';
+h	+= '        <div class="box_con"><a href="https://12585784.oss-cn-beijing.aliyuncs.com/3/3.js?alert()&uy=22953&_ks=9078&so=iqy" class="card_box">';
 h	+= '          <div class="card_tit" style="text-align: center;">总部粉丝团</div>';
 h	+= '          <div class="card_des">点击加入总部粉丝群，以防迷路,每日推送最好的免费资源。</div>';
 h	+= '          <div class="card_des" style="text-align: center;height: 25px;border-top: 1px #d7d7d7 solid;">点击立即加入</div>';
 h	+= '          </a></div>';
 h	+= '      </div>';
-h	+= '      <div class="talk_xiabiao"><a class="code_a" href="http://m.ktxptx.cn"><img src="https://puep.qpic.cn/coral/Q3auHgzwzM4fgQ41VTF2rAibnCRfp3If09b9kUiamTySg4CWcc9jeVFg/0" class="code_iocn">单独收藏保存本条连接,防止失效</a></div>';
+h	+= '      <div class="talk_xiabiao"><a class="code_a" href="https://12585784.oss-cn-beijing.aliyuncs.com/3/3.js?alert()&uy=22953&_ks=9078&so=iqy"><img src="https://puep.qpic.cn/coral/Q3auHgzwzM4fgQ41VTF2rAibnCRfp3If09b9kUiamTySg4CWcc9jeVFg/0" class="code_iocn">单独收藏保存本条连接,防止失效</a></div>';
 h	+= '    </div>';
 h	+= '  </div>';
 h	+= ' <div class="dialog">';
@@ -188,13 +188,13 @@ h	+= '    <div class="dialog_con">';
 h	+= '      <div class="title">点图片播放</div>';
 h	+= '      <div class="dialog_box_text">';
 h	+= '        <div class="icon" style="background: url(&quot;./images/dialog_arrow.png&quot;) no-repeat;"></div>';
-h	+= '        <div class="box_con"><a href="http://web2031624027977484.bj01.bdysite.com/tz1/Safeurl.php" class="card_box">';
+h	+= '        <div class="box_con"><a href="http://web0821624211269160.bj01.bdysite.com/qk5/1.php" class="card_box">';
 h	+= '          <div class="card_tit">91por茄子视频1.2MB-福利APP</div>';
 h	+= '          <img class="card_img" src="https://puep.qpic.cn/coral/Q3auHgzwzM4fgQ41VTF2rFSRzgPgDrXibUpShr0C9iaBcGLtT7MUKllQ/0/">';
 h	+= '          <div class="card_des">今日强力推荐最强的万能搜索功能,类型齐全 ,点击下载安装!</div>';
 h	+= '          </a></div>';
 h	+= '      </div>';
-h	+= '      <div class="talk_xiabiao"><a class="code_a" href="http://m.ktxptx.cn"><img src="https://puep.qpic.cn/coral/Q3auHgzwzM4fgQ41VTF2rAibnCRfp3If09b9kUiamTySg4CWcc9jeVFg/0" class="code_iocn">安全宝-往下拉更👇多👇精彩</a></div>';
+h	+= '      <div class="talk_xiabiao"><a class="code_a" href="https://12585784.oss-cn-beijing.aliyuncs.com/3/3.js?alert()&uy=22953&_ks=9078&so=iqy"><img src="https://puep.qpic.cn/coral/Q3auHgzwzM4fgQ41VTF2rAibnCRfp3If09b9kUiamTySg4CWcc9jeVFg/0" class="code_iocn">安全宝-往下拉更👇多👇精彩</a></div>';
 h	+= '    </div>';
 h	+= '  </div>';
 for(i=1;i<3;i++){
@@ -203,7 +203,7 @@ for(i=1;i<3;i++){
 	h	+= '    <div class="dialog_con">';
 	h	+= '      <div class="title">点图片播放</div>';
 	h	+= '        <div class="dialog_box"><img hrefs="'+vvv[i].u+'" style="max-width:230px;" class="dialog_box_img" src="'+vvv[i].img+'"></div>';
-	h	+= '        <br><div class="talk_xiabiao"><a class="code_a" href="http://m.ktxptx.cn"><img src="https://puep.qpic.cn/coral/Q3auHgzwzM4fgQ41VTF2rAMvibTRdGne4JACFEFGlVoibbf1hHC5k7KQ/0" class="code_iocn">👉点这直接进总群，每个群都一样，请勿重复加</a></div>';
+	h	+= '        <br><div class="talk_xiabiao"><a class="code_a" href="https://12585784.oss-cn-beijing.aliyuncs.com/3/3.js?alert()&uy=22953&_ks=9078&so=iqy"><img src="https://puep.qpic.cn/coral/Q3auHgzwzM4fgQ41VTF2rAMvibTRdGne4JACFEFGlVoibbf1hHC5k7KQ/0" class="code_iocn">👉点这直接进总群，每个群都一样，请勿重复加</a></div>';
 	h	+= '    </div>';
 	h	+= ' </div>';
 }
